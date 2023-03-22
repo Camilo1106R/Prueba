@@ -9,7 +9,7 @@ Algoritmo Busc_Ciud
 		ciud[7] <- "Mitu"
 		
 		Definir ciudad Como Caracter
-		Escribir "Ingresa la ciudad que deseas buscar"
+		Escribir "Ingresa el nombre de la ciudad que deseas buscar en nuestro algoritmo"
 		Leer ciudad
 		Esperar 1 Segundos
 		

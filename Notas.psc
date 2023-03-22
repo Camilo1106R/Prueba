@@ -30,7 +30,7 @@ Algoritmo Notas
 	Fin Para
 	promedio = suma/20
 	Escribir "PROMEDIO"
-	Escribir "El promedio de las notas del curso es de: ",promedio;
+	Escribir "El promedio total de las notas del curso es: ",promedio;
 	
 	mayor1 = 0
 	menor1 = 0

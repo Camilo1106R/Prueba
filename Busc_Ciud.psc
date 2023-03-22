@@ -1,12 +1,9 @@
 Algoritmo Busc_Ciud
-		Dimension ciud[10];	
+		Dimension ciud[4];	
 		ciud[1] <- "Cali"
 		ciud[2] <- "Bogota"
 		ciud[3] <- "Medellin"
 		ciud[4] <- "Tunja"
-		ciud[5] <- "Tolima"
-		ciud[6] <- "Huila"
-		ciud[7] <- "Mitu"
 		
 		Definir ciudad Como Caracter
 		Escribir "Ingresa el nombre de la ciudad que deseas buscar en nuestro algoritmo"
@@ -14,7 +11,7 @@ Algoritmo Busc_Ciud
 		Esperar 1 Segundos
 		
 		cont=0
-		Para i=1 Hasta 7 Con Paso 1 Hacer
+		Para i=1 Hasta 4 Con Paso 1 Hacer
 			Si ciudad == ciud[i] Entonces
 				posicion=i
 			SiNo

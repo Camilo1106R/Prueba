@@ -1,6 +1,7 @@
 Algoritmo Notas
 	Definir not_alu, suma, promedio Como Real
 	
+	Escribir: "Hola V1";
 	Dimension not_alu[20];
 	
 	not_alu[1] <- 35

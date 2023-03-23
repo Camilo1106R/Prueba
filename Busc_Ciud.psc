@@ -21,7 +21,7 @@ Algoritmo Busc_Ciud
 			Fin Si
 		Fin Para
 		
-		Escribir "La ciudad de ",ciudad," se encuentra en la posicion ",posicion;
+		Escribir "La ciudad digitada la cual es: ",ciudad," se encuentra en la posicion ",posicion;
 		nop=0
 		Si posicion=0 Entonces
 			Escribir "La ciudad no se encuentra dentro del arreglo"
